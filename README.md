@@ -8,16 +8,19 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🏢 SaaS / Hosted Platforms
 
-- **[Plaid](https://plaid.com/)** — Dominant US-focused account aggregation and payment platform with extensive bank coverage and developer tools.
-- **[Tink](https://tink.com/)** (Visa) — Leading European open banking platform for account information and payment initiation.
-- **[Finicity](https://www.finicity.com/)** (Mastercard) — US financial data aggregation and verification platform.
-- **[TrueLayer](https://truelayer.com/)** — Strong UK and European open banking provider specializing in payments and account data.
-- **[Yodlee](https://www.yodlee.com/)** (Envestnet) — Long-standing global financial data aggregation platform.
-- **[Belvo](https://belvo.com/)** — Leading open banking / account aggregation platform focused on Latin America.
-- **[Salt Edge](https://www.saltedge.com/)** — Global open banking aggregator with wide geographic coverage.
-- **[MX](https://www.mx.com/)** — US-focused data aggregation, enrichment, and analytics platform popular with banks and fintechs.
-- **[Akoya](https://akoya.com/)** — Bank-owned data access network in the US aimed at secure, permissioned data sharing.
-- **[Mono](https://mono.co/)** — Open banking and account aggregation platform focused on Africa.
+| Platform | Description | Company Size (Valuation / Revenue) | Pricing & Free Tier |
+| :--- | :--- | :--- | :--- |
+| **[Plaid](https://plaid.com/)** | Dominant US-focused account aggregation and payment platform with extensive bank coverage and developer tools. | $8.0 Billion (Valuation) | Custom usage-based. Offers free sandbox environment and trial plan (up to 10 free connections). |
+| **[Tink](https://tink.com/)** (Visa) | Leading European open banking platform for account information and payment initiation. | $2.2 Billion (Acquisition value) | Custom usage-based. Offers free developer console and sandbox testing. |
+| **[MX](https://www.mx.com/)** | US-focused data aggregation, enrichment, and analytics platform popular with banks and fintechs. | $1.9 Billion (Valuation) | Custom subscription/usage. MX Data Access tool is free for financial institutions; free demo available. |
+| **[Finicity](https://www.finicity.com/)** (Mastercard) | US financial data aggregation and verification platform. | $825 Million (Acquisition value) | Custom usage-based. Offers free "Test Drive" sandbox environment. |
+| **[TrueLayer](https://truelayer.com/)** | Strong UK and European open banking provider specializing in payments and account data. | $750 Million (Valuation) | Custom tiered. Offers free development/sandbox environment for testing. |
+| **[Yodlee](https://www.yodlee.com/)** (Envestnet) | Long-standing global financial data aggregation platform. | $590 Million (Acquisition value) | Custom enterprise. Offers free sandbox environment for developer testing. |
+| **[Belvo](https://belvo.com/)** | Leading open banking / account aggregation platform focused on Latin America. | $80 Million+ (Total funding) | Custom usage-based. Free sandbox and developer dashboard access. |
+| **[Mono](https://mono.co/)** | Open banking and account aggregation platform focused on Africa. | $30 Million (Acquisition value) | Custom/usage-based. Offers free developer sandbox for testing. |
+| **[Salt Edge](https://www.saltedge.com/)** | Global open banking aggregator with wide geographic coverage. | $3 Million+ (Total funding) | Custom based on modules. Developer portal with sandbox access is available. |
+| **[Akoya](https://akoya.com/)** | Bank-owned data access network in the US aimed at secure, permissioned data sharing. | Undisclosed (Bank-backed network) | Custom enterprise/network fees. Developer portal for sandbox/test integrations. |
+
 
 ## 🔓 Open-Source Software
 
