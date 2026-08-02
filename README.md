@@ -4,6 +4,8 @@
 
 # Awesome Account Aggregation API 🏦
 
+A curated directory of the best **Account Aggregation APIs**, **Open Banking connectivity platforms**, and **open-source financial data API equivalents** (PSD2, Open Finance, and bank data aggregation). Perfect for fintech developers seeking to integrate real-time bank account information, transactions, balances, and payment initiation into their SaaS products and applications.
+
 ## 🔍 Similar Projects to Account Aggregation APIs 🌐
 
 **Account Aggregation APIs** (also called open banking, financial data aggregation, or bank connectivity platforms) allow applications to securely access users’ bank account data, balances, transactions, and in many cases initiate payments, with user consent. Leading commercial providers include Plaid, Tink, Finicity, TrueLayer, Yodlee, Belvo, Salt Edge, MX, Akoya, and Mono.
