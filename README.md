@@ -1,4 +1,8 @@
-# Awesome-Account-Aggregation-Api
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome Account Aggregation APIs Banner" width="100%" />
+</div>
+
+# Awesome Account Aggregation API 🏦
 
 ## Similar Projects to Account Aggregation APIs
 
