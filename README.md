@@ -24,20 +24,17 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🔓 Open-Source Software
 
-### Open Banking API Platforms & Frameworks
-- **[Open Bank Project (OBP-API)](https://github.com/OpenBankProject/OBP-API)** — The most established open-source open banking API platform. Enables banks and fintechs to expose accounts, transactions, payments, and consents via standardized RESTful APIs (supports PSD2, Open Banking, and Open Finance styles). Actively maintained and used in production by multiple institutions.
-- **Open Banking Connector** (and similar projects) — Open-source connector layers that simplify integration with UK/EU Open Banking APIs by handling bank differences, registrations, and tokens.
-- **Enable Banking** related open-source components — Tools and samples for working with eIDAS certificates and PSD2-style bank APIs.
+Here is a list of notable open-source repositories in the account aggregation and open banking ecosystem, sorted by GitHub star count:
 
-### Personal Finance & Aggregation-Adjacent Tools
-- **[Firefly III](https://github.com/firefly-iii/firefly-iii)** — Popular open-source personal finance manager. Can import transactions and, via community integrations or commercial aggregators, support bank connectivity.
-- Other self-hosted finance tools (Actual Budget, etc.) that support CSV/OFX imports or limited bank syncing.
-- Emerging projects such as **OpenFinance** that normalize data from commercial providers (Plaid, MX, etc.) and expose it via APIs or MCP for AI agents (still relies on underlying commercial aggregators).
+- **[Actual Budget](https://github.com/actualbudget/actual)** [![GitHub stars](https://img.shields.io/github/stars/actualbudget/actual?style=social&color=white)](https://github.com/actualbudget/actual/stargazers) — Popular open-source personal finance manager (formerly commercial) with local-first architecture and support for bank syncing.
+- **[Firefly III](https://github.com/firefly-iii/firefly-iii)** [![GitHub stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=social&color=white)](https://github.com/firefly-iii/firefly-iii/stargazers) — Popular open-source personal finance manager. Can import transactions and, via community integrations or commercial aggregators, support bank connectivity.
+- **[Open Bank Project (OBP-API)](https://github.com/OpenBankProject/OBP-API)** [![GitHub stars](https://img.shields.io/github/stars/OpenBankProject/OBP-API?style=social&color=white)](https://github.com/OpenBankProject/OBP-API/stargazers) — The most established open-source open banking API platform. Enables banks and fintechs to expose accounts, transactions, payments, and consents via standardized RESTful APIs (supports PSD2, Open Banking, and Open Finance styles). Actively maintained and used in production by multiple institutions.
+- **[Open Banking Connector](https://github.com/finlabsuk/open-banking-connector)** [![GitHub stars](https://img.shields.io/github/stars/finlabsuk/open-banking-connector?style=social&color=white)](https://github.com/finlabsuk/open-banking-connector/stargazers) — Open-source connector layers that simplify integration with UK/EU Open Banking APIs by handling bank differences, registrations, and tokens.
 
-### Protocols, Standards & Supporting Tools
+### Protocols, Standards & Adjacent Tools
 - **SimpleFIN** — Lightweight, read-only financial data protocol (more common in certain US personal-finance contexts).
-- Open-source eIDAS / mTLS helper services and PSD2 request signing tools used when building direct bank integrations.
-- Various bank-specific or region-specific open-source connectors and reference implementations available on GitHub.
+- **Enable Banking** related open-source components — Tools and samples for working with eIDAS certificates and PSD2-style bank APIs.
+- **OpenFinance** — Emerging projects that normalize data from commercial providers (Plaid, MX, etc.) and expose it via APIs or MCP for AI agents (still relies on underlying commercial aggregators).
 
 ### Typical Open-Source / Hybrid Approach
 Because full bank coverage is difficult to maintain in pure open source, common patterns include:
