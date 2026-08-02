@@ -4,7 +4,7 @@
 
 # Awesome Account Aggregation API 🏦
 
-## Similar Projects to Account Aggregation APIs
+## 🔍 Similar Projects to Account Aggregation APIs 🌐
 
 **Account Aggregation APIs** (also called open banking, financial data aggregation, or bank connectivity platforms) allow applications to securely access users’ bank account data, balances, transactions, and in many cases initiate payments, with user consent. Leading commercial providers include Plaid, Tink, Finicity, TrueLayer, Yodlee, Belvo, Salt Edge, MX, Akoya, and Mono.
 
@@ -35,15 +35,15 @@ Here is a list of notable open-source repositories in the account aggregation an
 - **[Open Bank Project (OBP-API)](https://github.com/OpenBankProject/OBP-API)** [![GitHub stars](https://img.shields.io/github/stars/OpenBankProject/OBP-API?style=social&color=white)](https://github.com/OpenBankProject/OBP-API/stargazers) — The most established open-source open banking API platform. Enables banks and fintechs to expose accounts, transactions, payments, and consents via standardized RESTful APIs (supports PSD2, Open Banking, and Open Finance styles). Actively maintained and used in production by multiple institutions.
 - **[Open Banking Connector](https://github.com/finlabsuk/open-banking-connector)** [![GitHub stars](https://img.shields.io/github/stars/finlabsuk/open-banking-connector?style=social&color=white)](https://github.com/finlabsuk/open-banking-connector/stargazers) — Open-source connector layers that simplify integration with UK/EU Open Banking APIs by handling bank differences, registrations, and tokens.
 
-### Protocols, Standards & Adjacent Tools
+### 📜 Protocols, Standards & Adjacent Tools 🛠️
 - **SimpleFIN** — Lightweight, read-only financial data protocol (more common in certain US personal-finance contexts).
 - **Enable Banking** related open-source components — Tools and samples for working with eIDAS certificates and PSD2-style bank APIs.
 - **OpenFinance** — Emerging projects that normalize data from commercial providers (Plaid, MX, etc.) and expose it via APIs or MCP for AI agents (still relies on underlying commercial aggregators).
 
-### Typical Open-Source / Hybrid Approach
+### 🔄 Typical Open-Source / Hybrid Approach 💡
 Because full bank coverage is difficult to maintain in pure open source, common patterns include:
 1. Using a commercial aggregator (Plaid, Tink, TrueLayer, etc.) for bank connectivity.
-2. Normalizing and storing the data in a self-hosted system (Firefly III, custom database, or Open Bank Project-style API).
+2. Normalizing and storage of data in a self-hosted system (Firefly III, custom database, or Open Bank Project-style API).
 3. Building internal or customer-facing experiences on top of the normalized data.
 4. For banks themselves: deploying Open Bank Project or similar to expose their own APIs in a standards-compliant way.
 
@@ -51,11 +51,11 @@ Pure self-hosted aggregation with broad live bank coverage remains limited; most
 
 ---
 
-**How to contribute**  
+**🤝 How to contribute**  
 Fork this repository, add a new project (with link + short description + category), and open a pull request.  
 Prefer actively maintained open-source projects related to open banking, account aggregation, financial data APIs, or personal finance platforms that support bank connectivity.
 
-**License**  
+**📄 License**  
 This list is public domain / CC0. Feel free to copy into your own awesome list or README.
 
 Star the projects you find useful — open banking and financial data infrastructure continues to evolve! 🏦
